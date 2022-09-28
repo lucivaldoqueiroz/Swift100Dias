@@ -10,3 +10,4 @@ print(arrayStrings.count)
 
 var arraysSStringSet = Set<String>(arrayStrings)
 print(arraysSStringSet.count)
+print(arraysSStringSet)
